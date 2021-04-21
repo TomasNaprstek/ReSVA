@@ -1,5 +1,4 @@
 %Remote Sensing Video Alignment (ReSVA)
-%Blah blah blah
 %Dr. Tomas Naprstek, 2020
 %National Research Council Canada
 
